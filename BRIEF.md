@@ -4,7 +4,7 @@
 
 ## Problématique métier
  
-<img src="docs/image.png" style="float: left; margin-right: 20px; border-radius: 20px;" width="100" />
+<center><img src="docs/image.png" style="float: left; margin-right: 20px; border-radius: 20px;" width="100" /></center>
 
 *Je gère un bar à cocktails très fréquenté à Metz. Beaucoup de mes clients veulent essayer des cocktails personnalisés selon leurs goûts, mais mes barmans n'ont pas toujours le temps de conseiller chaque client. J'aimerais proposer une solution ludique, accessible sur tablette ou sur mobile, qui leur suggère un cocktail en fonction de leurs envies. Je souhaite aussi pouvoir inventer de nouveaux cocktails en m'aidant de l'IA pour créer des recettes originales.*
 
@@ -67,6 +67,6 @@ Même si le but de cette évaluation n'est pas de vous juger sur vos compétence
 | Structure du code | 4 |
 | Mise en place de la dockerisation | 3 |
 | Documentation et explication des choix | 3 |
-| **Total** | **/20** |
+| **Total** | **20** |
 
 
